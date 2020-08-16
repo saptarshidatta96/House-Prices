@@ -61,6 +61,7 @@ This tells the algorithm that the value was missing.
 This also gets around the technical requirement for no missing values.
 
 Missing values Treatment Techniques
+
 1.Deleting Data
 
 This method is the most commonly used to handle the null values. Here, we either delete a particular record if it has a null value for a particular feature ,and a particular feature if it has more than 70-75% of missing values. This method is advised only when there are enough samples in the data set.
