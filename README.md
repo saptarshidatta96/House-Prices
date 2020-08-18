@@ -84,7 +84,7 @@ This strategy can be applied on a feature which has numeric data like the age of
 
 5. Assigning An Unique Category
 
-A categorical feature will have a definite number of possibilities, such as gender, for example. Since they have a definite number of classes, we can assign another class for the missing values. Here, the features Cabin and Embarked have missing values which can be replaced with a new category, say, U for ‘unknown’. This strategy will add more information into the data set which will result in the change of variance. Since they are categorical, we need to find one hot encoding to convert it to a numeric form for the algorithm to understand it.
+A categorical feature will have a definite number of possibilities, such as gender, for example. Since they have a definite number of classes, we can assign another class for the missing values. When some of the features have missing values they can be replaced with a new category, say, U for ‘unknown’. This strategy will add more information into the data set which will result in the change of variance. Since they are categorical, we need to find one hot encoding to convert it to a numeric form for the algorithm to understand it.
 
 
 
