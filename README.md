@@ -1,4 +1,4 @@
-# House-Prices
+# House-Prices: Advannced Regression Techniques
 
 # Problem Description
 
@@ -7,7 +7,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 
-Missing Value Treatment
+# Missing Value Treatment
 Data in real world are rarely clean and homogeneous. Typically this is because of the following reasons:
 
 1. Corrupt data
